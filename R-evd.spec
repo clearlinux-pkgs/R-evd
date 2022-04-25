@@ -4,7 +4,7 @@
 #
 Name     : R-evd
 Version  : 2.3.6
-Release  : 35
+Release  : 36
 URL      : https://cran.r-project.org/src/contrib/evd_2.3-6.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/evd_2.3-6.tar.gz
 Summary  : Functions for Extreme Value Distributions
